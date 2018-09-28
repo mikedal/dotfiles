@@ -6,6 +6,7 @@
 
 - link:
     ~/.vimrc: vimrc
+    ~/.i3/config: i3/config
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
