@@ -8,6 +8,7 @@
     ~/.vimrc: vimrc
     ~/.i3/config: i3/config
     ~/.config/i3status/config: i3status.conf
+    ~/.gnupg/gpg-agent.conf: gpg-agent.conf
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
