@@ -9,6 +9,7 @@
     ~/.i3/config: i3/config
     ~/.config/i3status/config: i3status.conf
     ~/.gnupg/gpg-agent.conf: gpg-agent.conf
+    ~/.rtorrent.rc: rtorrent.rc
 
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
