@@ -11,5 +11,6 @@
     ~/.gnupg/gpg-agent.conf: gpg-agent.conf
     ~/.rtorrent.rc: rtorrent.rc
     ~/.zshrc: zshrc
+    ~/.gitconfig: gitconfig
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
