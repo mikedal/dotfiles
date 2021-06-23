@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/mdaley/.oh-my-zsh
+  export ZSH=/usr/share/oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -85,4 +85,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source ~/scripts/aliases
 
-source /usr/lib/python2.7/site-packages/powerline/bindings/zsh/powerline.zsh
+source /usr/share/powerline/bindings/zsh/powerline.zsh
