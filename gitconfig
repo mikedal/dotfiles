@@ -1,0 +1,14 @@
+[user]
+	name = Mike Daley
+	email = mikedaley5@gmail.com
+
+[pull]
+	rebase = true
+[rebase]
+	autostash = true
+[push]
+	default = current
+[includeIf "gitdir:~/work/"]
+	path = ~/work/.gitconfig
+[core]
+	autocrlf = input
