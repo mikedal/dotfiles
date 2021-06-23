@@ -51,7 +51,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git aws dnf docker pylint python zsh-syntax-highlighting)
+plugins=(git aws dnf docker pylint python)
 
 source $ZSH/oh-my-zsh.sh
 
